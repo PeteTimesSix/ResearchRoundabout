@@ -302,6 +302,7 @@
     <Compile Include="ResearchRoundabout_PostInit.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Rimworld\Extensions.cs" />
+    <Compile Include="Rimworld\PatchOperationMultiplyValue.cs" />
     <Compile Include="Rimworld\Textures.cs" />
   </ItemGroup>
   <ItemGroup>

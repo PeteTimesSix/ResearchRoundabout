@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Patch>
+
+	<Operation Class="PeteTimesSix.ResearchRoundabout.Rimworld.PatchOperationMultiplyNumericValue">
+		<xpath>/Defs/ResearchProjectDef/baseCost/text()</xpath>
+		<multiplier>0.1</multiplier>
+	</Operation>
+	
+</Patch>

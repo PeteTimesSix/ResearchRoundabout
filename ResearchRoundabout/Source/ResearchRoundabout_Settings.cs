@@ -1,6 +1,4 @@
-﻿using PeteTimesSix.ResearchRoundabout.HarmonyPatches;
-using PeteTimesSix.ResearchRoundabout.Rimworld;
-using PeteTimesSix.ResearchRoundabout.Rimworld.UI;
+﻿using PeteTimesSix.ResearchRoundabout.Rimworld;
 using RimWorld;
 using System;
 using UnityEngine;

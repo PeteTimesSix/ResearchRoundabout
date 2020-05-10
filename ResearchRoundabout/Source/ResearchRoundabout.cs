@@ -9,7 +9,6 @@ using HarmonyLib;
 using System.Reflection;
 using RimWorld;
 using PeteTimesSix.ResearchRoundabout.Rimworld;
-using PeteTimesSix.ResearchRoundabout.HarmonyPatches;
 
 namespace PeteTimesSix.ResearchRoundabout
 {
